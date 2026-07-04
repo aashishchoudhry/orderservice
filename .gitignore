@@ -8,3 +8,4 @@
 **/appsettings.Development.json
 .DS_Store
 .claude
+.github/workflows/

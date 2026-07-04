@@ -137,16 +137,6 @@ Key settings in `appsettings.json`:
 
 ---
 
-## CI/CD
-
-GitHub Actions workflow (`.github/workflows/ci.yml`) runs on every push or pull request to `main`:
-
-1. Restore NuGet packages
-2. Build in Release configuration
-3. Run tests
-
----
-
 ## Database Migrations
 
 Migrations are managed with EF Core. To apply them locally:
